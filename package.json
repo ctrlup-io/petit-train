@@ -1,0 +1,8 @@
+{
+  "name": "petit-train",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ctrlup-io/petit-train.git",
+  "author": "Valentin Barit <valentin.barit@gmail.com>",
+  "license": "MIT"
+}

@@ -1,0 +1,5 @@
+node_modules
+.env
+parcel-bundle-reports
+.parcel-cache
+dist
